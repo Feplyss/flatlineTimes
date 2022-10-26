@@ -1,19 +1,7 @@
 const images = {
-    '1': {
-        imgName: '1',
-        uri: require('./assets/flamengo.png')
-    },
-    '2': {
-        imgName: '2',
-        uri: require('./assets/vasco.png')
-    },
-    '3': {
-        imgName: '3',
-        uri: require('./assets/fluminense.png')
-    },
-    '4': {
-        imgName: '4',
-        uri: require('./assets/botafogo.png')
-    }
+    'd1': require('./assets/flamengo.png'),
+    'd2': require('./assets/vasco.png'),
+    'd3': require('./assets/fluminense.png'),
+    'd4': require('./assets/botafogo.png')
 }
 export { images };
